@@ -9,7 +9,7 @@ name: The Glamis Residents' Hall!
 description: Affordable event space for hire in East London.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/KarlieGG/KarlieGG.github.io/master/images/logo.png
+avatar: https://raw.githubusercontent.com/glamisresidentshall/glamisresidentshall.github.io/master/images/logo.png
 
 #
 # Flags below are optional
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-CQ3BNGFSQB
+google_analytics: G-9K2CWD90S3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

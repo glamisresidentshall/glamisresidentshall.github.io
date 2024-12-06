@@ -2,17 +2,28 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="homepage">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <h1>Welcome to Glamis Residents' Hall</h1>
+  
+  <p>Your perfect venue for events, meetings, and celebrations. Affordable and convenient for the community.</p>
+  
+  <img src="{{ site.baseurl }}/images/example_hall.png" alt="Community Hall" style="width:100%; max-height:400px; object-fit:cover;">
+  
+  <h2>Why Choose Us?</h2>
+  <ul>
+    <li>Spacious hall with a capacity for up to 200 people.</li>
+    <li>Fully equipped kitchen and free parking.</li>
+    <li>Affordable rental rates.</li>
+    <li>Wheelchair accessible facilities.</li>
+  </ul>
+  
+  <h2>Quick Links</h2>
+  <ul>
+    <li><a href="{{ site.baseurl }}/about">About the Hall</a></li>
+    <li><a href="{{ site.baseurl }}/availability">Check Availability</a></li>
+    <li><a href="{{ site.baseurl }}/contact">Contact Us</a></li>
+    <li><a href="{{ site.baseurl }}/location">Find Us</a></li>
+  </ul>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
 </div>

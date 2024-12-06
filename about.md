@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Welcome to Glamis Hall!
+title: Welcome to Glamis Residents' Hall!
 permalink: /about/
 ---
 <br><br>
 <h3>Who Are We?</h3>
 <br>
-We came together in 2014 to save Glamis Hall and its services from closure.  
-We became a registered charity (No. 1148565) in early 20xx to help us provide services at Glamis Hall for the community.
+We came together in 2014 to save Glamis Residents' Hall and its services from closure.  
+We became a registered charity (No. 1148565) in early 20xx to help us provide services at Glamis Residents' Hall for the community.
 <br><br>
 
-<h3>What is the Glamis Hall?</h3>
+<h3>What is the Glamis Residents' Hall?</h3>
 <br>
-Glamis Hall is a large square room (169 sq m), with a separate foyer, high ceilings, ceiling mounted glitter-ball, LED disco lights, a small stage, a bar area (with pub style fridge and large catering fridge and separate small chest freezer), a separate kitchenette/food preparation area, and ladies/gents toilets.
+Glamis Residents' Hall is a large square room (169 sq m), with a separate foyer, high ceilings, ceiling mounted glitter-ball, LED disco lights, a small stage, a bar area (with pub style fridge and large catering fridge and separate small chest freezer), a separate kitchenette/food preparation area, and ladies/gents toilets.
 
 The hall is fully disabled accessible. Parking on-street only.
 

@@ -12,7 +12,10 @@ We became a registered charity (No. 1148565) in early 20xx to help us provide se
 
 <h3>What is the Glamis Hall?</h3>
 <br>
-Glamis Hall is a a large hall with a kitchen and ...
+Glamis Hall is a large square room (169 sq m), with a separate foyer, high ceilings, ceiling mounted glitter-ball, LED disco lights, a small stage, a bar area (with pub style fridge and large catering fridge and separate small chest freezer), a separate kitchenette/food preparation area, and ladies/gents toilets.
+
+The hall is fully disabled accessible. Parking on-street only.
+
 <br><br>
 
 <h3>Our Mission</h3>
@@ -22,7 +25,7 @@ Providing ....
 
 <h3>Room Hire</h3>
 <br>
-We hire our rooms by the hour. Use our Contact page to check pricing and availability. 
+We hire our rooms by the hour. Use our <a href="{{ site.baseurl }}/contact">Contact</a> page to check pricing and <a href="{{ site.baseurl }}/availability">availability</a>. 
 Please contact us in plenty of time as we get booked up very quickly.
 <br><br>
  

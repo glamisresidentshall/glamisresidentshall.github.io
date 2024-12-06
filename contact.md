@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-<h3>Glamis Hall</h3>
-<a href="mailto:glamis@gmail.com">glamis@gmail.com</a>
+<h3>Glamis Estate Hall</h3>
+<a href="mailto:glamisresidentshall@gmail.com">glamisresidentshall@gmail.com</a>
 
-<p>The Glamis Residents' Hall</p>
+<p>The Glamis Estate Tenants’ Hall</p>
 <p>414 Cable St, London</p>
 <p>E1 0AF </p>
 

@@ -8,7 +8,7 @@ permalink: /contact/
   <p>If you have any questions about our hall or wish to make a booking, feel free to reach out!</p>
 
   <!-- Contact Details -->
-  <h2>Contact Us or Book Now<</h2>
+  <h2>Contact Us or Book Now</h2>
   <ul>
     <li><strong>Phone:</strong> <a href="tel:+44(0)756544 3541">+44(0)75654 43541</a></li>
     <li><strong>Email:</strong> <a href="mailto:glamisresidentshall@gmail.com">glamisresidentshall@gmail.com</a></li>

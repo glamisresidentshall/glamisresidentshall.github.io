@@ -291,6 +291,40 @@ footer {
   margin-bottom:0;
 }
 
+/* Contact Page Styles */
+.contact-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.contact-section h1, 
+.contact-section h2 {
+  text-align: center;
+  color: #333;
+}
+
+.contact-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-section ul li {
+  margin: 5px 0;
+}
+
+.contact-section p {
+  line-height: 1.6;
+}
+
+.map iframe,
+.contact-section iframe {
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

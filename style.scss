@@ -21,6 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  text-align: justify
 }
 
 .container {
@@ -324,6 +325,48 @@ footer {
   border-radius: 5px;
 }
 
+/* Gallery Page Styles */
+.gallery-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.gallery-section h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.gallery-section p {
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.gallery-grid a {
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gallery-grid a:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

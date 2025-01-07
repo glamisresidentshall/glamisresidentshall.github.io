@@ -4,7 +4,8 @@ title: Gallery
 ---
 
 <div class="gallery-section">
-  <h1>Gallery</h1>
+# Gallery
+  
   <p>Take a look at our beautiful community hall and its facilities. Click on any image to enlarge it.</p>
 
   <div class="gallery-grid">

@@ -6,8 +6,7 @@ permalink: /about/
 <br><br>
 <h3>Who Are We?</h3>
 <br>
-We came together in 2014 to save Glamis Residents' Hall and its services from closure.  
-We became a registered charity (No. 1148565) in early 20xx to help us provide services at Glamis Residents' Hall for the community.
+The Glamis Residents' Association became a registered charity (No. 1148565) in late 2012 to making the Glamis Estate and surrounding areas a vibrant, welcoming, and supportive community for everyone.
 <br><br>
 
 <h3>What is the Glamis Residents' Hall?</h3>
@@ -18,7 +17,21 @@ The hall is fully disabled accessible. Parking on-street only.
 
 <h3>Our Mission</h3>
 <br>
-Providing ....
+
+We strive to:
+<br>
+
+- **Bring people together:** We work with residents, local organizations, and authorities to create opportunities for connection, collaboration, and shared experiences.
+  
+- **Enhance well-being:** By offering educational programs, recreational activities, and social events, we aim to improve the quality of life for everyone in our community.
+  
+- **Provide a community hub:** The Glamis Residents’ Hall serves as a central space for events, gatherings, and initiatives that support the needs and aspirations of local people.
+  
+- **Support inclusivity:** We welcome everyone, regardless of age, background, or beliefs, and are committed to fostering a space that celebrates diversity.
+  
+- **Promote charitable efforts:** We also support other meaningful causes that benefit the community.
+
+As a non-political and non-religious organization, our goal is to create a space where everyone feels they belong and can thrive.
 <br><br>
 
 <h3>Room Hire</h3>

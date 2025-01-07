@@ -43,11 +43,19 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/gallery">Gallery</a>
-            <a href="{{ site.baseurl }}/availability">Availability</a>
-            <a href="{{ site.baseurl }}/contact">Contact</a>
+            <div class="nav-toggle" onclick="toggleMenu()">☰</div>
+            <div class="nav-links">
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/gallery">Gallery</a>
+              <a href="{{ site.baseurl }}/availability">Availability</a>
+              <a href="{{ site.baseurl }}/contact">Contact</a>
+            </div>
           </nav>
+          <script>
+            function toggleMenu() {
+              document.querySelector('.nav-links').classList.toggle('show');
+            }
+          </script>
         </header>
       </div>
     </div>

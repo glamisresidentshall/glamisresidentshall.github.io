@@ -3,7 +3,7 @@ layout: page
 title: Welcome to Glamis Residents' Hall!
 permalink: /about/
 ---
-<br><br>
+<br>
 <h3>Who Are We?</h3>
 <br>
 The Glamis Residents' Association became a registered charity (No. 1148565) in late 2012 to making the Glamis Estate and surrounding areas a vibrant, welcoming, and supportive community for everyone.
@@ -17,7 +17,6 @@ The hall is fully disabled accessible. Parking on-street only.
 
 <h3>Our Mission</h3>
 <br>
-
 We strive to:
 <br>
 
